@@ -1,0 +1,16 @@
+autocorrect==2.6.1
+classy_classification==0.6.2
+emoji==2.1.0
+findfile==2.0.0
+nltk==3.7
+numpy
+pandas
+Pillow==9.4.0
+pyabsa==2.0.23
+spacy
+stanza==1.4.2
+streamlit==1.8.1
+tensorflow
+textblob==0.15.3
+transformers==4.24.0
+vaderSentiment==3.3.2
